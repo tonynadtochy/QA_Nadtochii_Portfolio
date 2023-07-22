@@ -56,7 +56,7 @@ Appealed by the opportunity to get into a team of excellent IT industry professi
 
 Please, take a look at my CV:
 
-<a href="https://drive.google.com/file/d/19XmhveBajTOeP-TO2mgdMFIwMq5Sk50a/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1Rb5bkwo0dDByl-zM97bBxxsWDNjS-eu0/view?usp=share_link">
   <img src="https://icons.iconarchive.com/icons/inipagi/job-seeker/256/cv-icon.png" title="My CV" alt="My CV" width="120" height="120"/>
 </a>
 
